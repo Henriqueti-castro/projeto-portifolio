@@ -1,0 +1,20 @@
+Henrique
+
+[MENU]
+
+Pagina Principal
+Projetos
+Experiência
+Contatos
+
+Olá, Sou Henrique
+Desenvolvedor FRONT-END
+
+[Ver Projetos] [Contatos]
+
+Sobre min
+
+estudei em uma Instituição de curso integrado IFAM Instituto Federal do Amazonas, durante o período de 3 anos estudei diversas disciplinas, e nesse período me apeguei a logica dos códigos, com o aprofundamento dos conteúdos, decidi que minha carreira seria de desenvolvedor full-stack, possuindo habilidades do back-end e front-end, porém como ainda estou na caminhada decidi entrar na faculdade de engenharia de software, e nesse momento me considero um desenvolvedor front-end por ainda estar no HTML e CSS
+
+HENRIQUE - PORTIFÓLIO
+DESENVOLVIDO COM HTML E CSS
